@@ -9,6 +9,7 @@ import StateDinamis from './pages/StateDinamis';
 import Communication from './pages/Communication';
 import ReactNativeSvg from './pages/ReactNativeSvg';
 import CallAPI from './pages/CallAPI';
+import LocalAPI from './pages/LocalAPI';
 
 const App = () => {
   return (
@@ -22,7 +23,8 @@ const App = () => {
         {/* <StateDinamis /> */}
         {/* <Communication /> */}
         {/* <ReactNativeSvg /> */}
-        <CallAPI />
+        {/* <CallAPI /> */}
+        <LocalAPI />
       </ScrollView>
     </View>
   );

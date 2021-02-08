@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Enal",
+      "email": "asd@asd.com",
+      "bidang": "FE Dev"
+    },
+    {
+      "name": "Mzr",
+      "email": "Mzr",
+      "bidang": "Mzr",
+      "id": 2
+    },
+    {
+      "name": "Ummi",
+      "email": "Enal",
+      "bidang": "Yt",
+      "id": 3
+    }
+  ]
+}
